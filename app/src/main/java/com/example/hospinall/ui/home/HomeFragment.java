@@ -88,7 +88,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
 
         changeStatus("Aplicación Abierta");
 
-    }
+    }//
 
     @Override
     public void onClick(View v) {
